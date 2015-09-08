@@ -1,0 +1,4 @@
+require "rrr"
+require "rrr/cli"
+
+RRR::CLI.start(ARGV)
